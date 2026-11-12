@@ -11,7 +11,7 @@
 ### 📊 Currently building
 
 - **UK MOT Failure Analysis** (SQL + Power BI): which cars fail their MOT, why, and what it means for independent garages. *In progress*
-- **SQL Practice:** solved SQL interview questions, organised by topic. *Coming soon*
+- **[SQL Practice](https://github.com/LintaBushra0826/sql-practice):** solved SQL interview questions, organised by topic. *Coming soon*
 
 ### 💼 Previous work
 
@@ -19,4 +19,4 @@
 
 ### 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/linta-bushra-khaliq-136125333)
+[LinkedIn](https://www.linkedin.com/in/lintabushrakhaliq)
